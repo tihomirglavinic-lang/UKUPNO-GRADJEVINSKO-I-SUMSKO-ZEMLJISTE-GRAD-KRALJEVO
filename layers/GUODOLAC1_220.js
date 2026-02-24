@@ -1,0 +1,1 @@
+var json_GUODOLAC1_220 = {"type":"FeatureCollection","name":"GUODOLAC1_220","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","LEYER":"GUO DOLAC"},"geometry":{"type":"Polygon","coordinates":[]}}]}
